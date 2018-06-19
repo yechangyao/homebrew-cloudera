@@ -1,9 +1,15 @@
 # homebrew-cloudera
 
-You can install Cloudera Director Server and Client with following command.
+You can install Cloudera Director Server and Client with `brew tap` and `brew install`
 
 ```sh
-brew tap chezou/cloudera
+brew tap <github-username>/cloudera
+```
+
+For example, if you use my tap (use this repository) you can use the following commnads.
+
+```sh
+brew tap takabow/cloudera
 brew install cloudera-director-server
 ```
 
