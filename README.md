@@ -29,3 +29,8 @@ cloudera-director-server-start
 # Stop Cloudera Director Server background
 cloudera-director-server-stop
 ```
+
+## Access
+```
+http://localhost:7189
+```
